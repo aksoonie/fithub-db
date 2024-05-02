@@ -21,41 +21,5 @@
         "height": 165.00,
         "ID_Objective": 1,
         "email": "ana@example.com"
-    },
-    {
-        "ID_User": 2,
-        "name": "Juan",
-        "age": 30,
-        "weight": 70.25,
-        "height": 175.50,
-        "ID_Objective": 2,
-        "email": "juan@example.com"
-    },
-    {
-        "ID_User": 3,
-        "name": "María",
-        "age": 28,
-        "weight": 55.50,
-        "height": 160.75,
-        "ID_Objective": 3,
-        "email": "maria@example.com"
-    },
-    {
-        "ID_User": 4,
-        "name": "Carlos",
-        "age": 35,
-        "weight": 80.00,
-        "height": 180.00,
-        "ID_Objective": 1,
-        "email": "carlos@example.com"
-    },
-    {
-        "ID_User": 5,
-        "name": "Laura",
-        "age": 32,
-        "weight": 68.90,
-        "height": 170.25,
-        "ID_Objective": 2,
-        "email": "laura@example.com"
     }
 ]
