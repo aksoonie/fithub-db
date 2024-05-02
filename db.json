@@ -1,5 +1,5 @@
 {
-    "objectives":[
+    "objectives": [
         {
             "ID_Objective": 1,
             "name": "Pérdida de peso"
@@ -13,14 +13,18 @@
             "name": "Mejora de la resistencia"
         }
     ],
-    "users":[
+    "users": [
         {
             "ID_User": 1,
             "name": "Ana",
             "age": 25,
             "weight": 60.80,
             "height": 165.00,
-            "email": "ana@example.com"
+            "email": "ana@example.com",
+            "objective": {
+                "ID_Objective": 1,
+                "name": "Pérdida de peso"
+            }
         }
     ]
 }
