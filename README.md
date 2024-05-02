@@ -1,1 +1,1 @@
-# Fithub Database
+# fithub-db.json
