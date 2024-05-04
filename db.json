@@ -30,7 +30,7 @@
                 "calories": 2000,
                 "fats": 60,
                 "carbohydrates": 225,
-                "saturated fats": 25
+                "saturated-fats": 25
             ]
         }
     ],
@@ -39,6 +39,6 @@
             "calories": 2500,
             "fats": 80,
             "carbohydrates": 325,
-            "saturated fats": 20
+            "saturated_fats": 20
     ]
 }
