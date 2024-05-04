@@ -24,7 +24,14 @@
             "objective": {
                 "ID_Objective": 1,
                 "name": "Pérdida de peso"
-            }
+            },
+            "statics":[
+                "proteins": 120,
+                "calories": 2000,
+                "fats": 60,
+                "carbohydrates": 225,
+                "saturated fats": 20
+            ]
         }
     ]
 }
