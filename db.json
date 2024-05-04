@@ -25,20 +25,22 @@
                 "ID_Objective": 1,
                 "name": "Pérdida de peso"
             },
-            "statistics":[
+            "statistics":{
                 "proteins": 120,
                 "calories": 2000,
                 "fats": 60,
                 "carbohydrates": 225,
                 "saturated-fats": 25
-            ]
+            }
         }
     ],
     "statistics": [
+        {
             "proteins": 150,
             "calories": 2500,
             "fats": 80,
             "carbohydrates": 325,
             "saturated_fats": 20
+        }
     ]
 }
