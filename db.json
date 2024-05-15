@@ -1,21 +1,21 @@
 {
     "objectives": [
         {
-            "ID_Objective": 1,
+            "id": 1,
             "name": "Pérdida de peso"
         },
         {
-            "ID_Objective": 2,
+            "id": 2,
             "name": "Aumento de masa muscular"
         },
         {
-            "ID_Objective": 3,
+            "id": 3,
             "name": "Mejora de la resistencia"
         }
     ],
     "users": [
         {
-            "ID_User": 1,
+            "id": 1,
             "name": "Ana",
             "age": 25,
             "weight": 60.80,
