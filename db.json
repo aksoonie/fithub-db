@@ -22,7 +22,7 @@
             "height": 165.00,
             "email": "ana@example.com",
             "objective": {
-                "ID_Objective": 1,
+                "id": 1,
                 "name": "Pérdida de peso"
             },
             "statistics":{
