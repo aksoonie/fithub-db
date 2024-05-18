@@ -43,4 +43,66 @@
             "saturated_fats": 20
         }
     ]
+    "productos": {
+    "alimentacion": [
+      {
+        "nombre": "Proteína en Polvo",
+        "descripcion": "Suplemento de proteína en polvo para mejorar el rendimiento y la recuperación muscular.",
+        "precio": "S/ 120,00",
+        "categoria": "Alimentación"
+      },
+      {
+        "nombre": "Barras Energéticas",
+        "descripcion": "Barras energéticas con alto contenido de proteína y fibra.",
+        "precio": "S/ 10,00",
+        "categoria": "Alimentación"
+      },
+      {
+        "nombre": "Aminoácidos BCAA",
+        "descripcion": "Suplemento de aminoácidos esenciales para la recuperación y el crecimiento muscular.",
+        "precio": "S/ 80,00",
+        "categoria": "Alimentación"
+      }
+    ],
+    "cardio": [
+      {
+        "nombre": "Pelota De Pilates 75cm + Inflador De Regalo",
+        "descripcion": "Pelota de pilates de 75cm de diámetro con inflador incluido, ideal para ejercicios de estabilidad y tonificación.",
+        "precio": "S/ 35,00",
+        "categoria": "Cardio"
+      },
+      {
+        "nombre": "Cuerda para Saltar",
+        "descripcion": "Cuerda para saltar ajustable, ideal para ejercicios de cardio y entrenamiento de alta intensidad.",
+        "precio": "S/ 20,00",
+        "categoria": "Cardio"
+      },
+      {
+        "nombre": "Bicicleta Estática",
+        "descripcion": "Bicicleta estática con resistencia ajustable para entrenamientos cardiovasculares en casa.",
+        "precio": "S/ 550,00",
+        "categoria": "Cardio"
+      }
+    ],
+    "funcional": [
+      {
+        "nombre": "Mancuernas Ajustables",
+        "descripcion": "Mancuernas ajustables de 2 a 20kg, ideales para ejercicios de fuerza y resistencia.",
+        "precio": "S/ 300,00",
+        "categoria": "Funcional"
+      },
+      {
+        "nombre": "Banda de Resistencia",
+        "descripcion": "Banda elástica de resistencia para ejercicios de fuerza, flexibilidad y rehabilitación.",
+        "precio": "S/ 25,00",
+        "categoria": "Funcional"
+      },
+      {
+        "nombre": "Kettlebell",
+        "descripcion": "Kettlebell de 12kg para ejercicios de fuerza funcional y entrenamiento de cuerpo completo.",
+        "precio": "S/ 150,00",
+        "categoria": "Funcional"
+      }
+    ]
+  }
 }
