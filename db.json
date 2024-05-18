@@ -44,63 +44,63 @@
         }
     ],
     "nutrition": [
-    {
-        "name": "Protein Powder",
-        "description": "Protein powder supplement to enhance performance and muscle recovery.",
-        "price": "$35.00",
-        "category": "Nutrition"
-    },
-    {
-        "name": "Energy Bars",
-        "description": "Energy bars with high protein and fiber content.",
-        "price": "$3.00",
-        "category": "Nutrition"
-    },
-    {
-        "name": "BCAA Amino Acids",
-        "description": "Essential amino acids supplement for muscle recovery and growth.",
-        "price": "$23.00",
-        "category": "Nutrition"
-    }
+        {
+            "name": "Protein Powder",
+            "description": "Protein powder supplement to enhance performance and muscle recovery.",
+            "price": "$35.00",
+            "category": "Nutrition"
+        },
+        {
+            "name": "Energy Bars",
+            "description": "Energy bars with high protein and fiber content.",
+            "price": "$3.00",
+            "category": "Nutrition"
+        },
+        {
+            "name": "BCAA Amino Acids",
+            "description": "Essential amino acids supplement for muscle recovery and growth.",
+            "price": "$23.00",
+            "category": "Nutrition"
+        }
     ],
     "cardio": [
-    {
-        "name": "Pilates Ball 75cm + Free Pump",
-        "description": "75cm Pilates ball with included pump, ideal for stability and toning exercises.",
-        "price": "$10.00",
-        "category": "Cardio"
-    },
-    {
-        "name": "Jump Rope",
-        "description": "Adjustable jump rope, ideal for cardio exercises and high-intensity training.",
-        "price": "$6.00",
-        "category": "Cardio"
-    },
-    {
-        "name": "Stationary Bike",
-        "description": "Stationary bike with adjustable resistance for cardiovascular workouts at home.",
-        "price": "$160.00",
-        "category": "Cardio"
-    }
+        {
+            "name": "Pilates Ball 75cm + Free Pump",
+            "description": "75cm Pilates ball with included pump, ideal for stability and toning exercises.",
+            "price": "$10.00",
+            "category": "Cardio"
+        },
+        {
+            "name": "Jump Rope",
+            "description": "Adjustable jump rope, ideal for cardio exercises and high-intensity training.",
+            "price": "$6.00",
+            "category": "Cardio"
+        },
+        {
+            "name": "Stationary Bike",
+            "description": "Stationary bike with adjustable resistance for cardiovascular workouts at home.",
+            "price": "$160.00",
+            "category": "Cardio"
+        }
     ],
     "functional": [
-    {
-        "name": "Adjustable Dumbbells",
-        "description": "Adjustable dumbbells from 2 to 20kg, ideal for strength and resistance exercises.",
-        "price": "$90.00",
-        "category": "Functional"
-    },
-    {
-        "name": "Resistance Band",
-        "description": "Elastic resistance band for strength, flexibility, and rehabilitation exercises.",
-        "price": "$7.00",
-        "category": "Functional"
-    },
-    {
-        "name": "Kettlebell",
-        "description": "12kg kettlebell for functional strength exercises and full-body training.",
-        "price": "$45.00",
-        "category": "Functional"
-    }
+        {
+            "name": "Adjustable Dumbbells",
+            "description": "Adjustable dumbbells from 2 to 20kg, ideal for strength and resistance exercises.",
+            "price": "$90.00",
+            "category": "Functional"
+        },
+        {
+            "name": "Resistance Band",
+            "description": "Elastic resistance band for strength, flexibility, and rehabilitation exercises.",
+            "price": "$7.00",
+            "category": "Functional"
+        },
+        {
+            "name": "Kettlebell",
+            "description": "12kg kettlebell for functional strength exercises and full-body training.",
+            "price": "$45.00",
+            "category": "Functional"
+        }
     ]
 }
