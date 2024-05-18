@@ -43,64 +43,64 @@
             "saturated_fats": 20
         }
     ],
-    "alimentacion": [
-        {
-        "nombre": "Proteína en Polvo",
-        "descripcion": "Suplemento de proteína en polvo para mejorar el rendimiento y la recuperación muscular.",
-        "precio": "S/ 120,00",
-        "categoria": "Alimentación"
-        },
-        {
-        "nombre": "Barras Energéticas",
-        "descripcion": "Barras energéticas con alto contenido de proteína y fibra.",
-        "precio": "S/ 10,00",
-        "categoria": "Alimentación"
-        },
-        {
-        "nombre": "Aminoácidos BCAA",
-        "descripcion": "Suplemento de aminoácidos esenciales para la recuperación y el crecimiento muscular.",
-        "precio": "S/ 80,00",
-        "categoria": "Alimentación"
-        }
+    "nutrition": [
+    {
+        "name": "Protein Powder",
+        "description": "Protein powder supplement to enhance performance and muscle recovery.",
+        "price": "$35.00",
+        "category": "Nutrition"
+    },
+    {
+        "name": "Energy Bars",
+        "description": "Energy bars with high protein and fiber content.",
+        "price": "$3.00",
+        "category": "Nutrition"
+    },
+    {
+        "name": "BCAA Amino Acids",
+        "description": "Essential amino acids supplement for muscle recovery and growth.",
+        "price": "$23.00",
+        "category": "Nutrition"
+    }
     ],
     "cardio": [
-        {
-        "nombre": "Pelota De Pilates 75cm + Inflador De Regalo",
-        "descripcion": "Pelota de pilates de 75cm de diámetro con inflador incluido, ideal para ejercicios de estabilidad y tonificación.",
-        "precio": "S/ 35,00",
-        "categoria": "Cardio"
-        },
-        {
-        "nombre": "Cuerda para Saltar",
-        "descripcion": "Cuerda para saltar ajustable, ideal para ejercicios de cardio y entrenamiento de alta intensidad.",
-        "precio": "S/ 20,00",
-        "categoria": "Cardio"
-        },
-        {
-        "nombre": "Bicicleta Estática",
-        "descripcion": "Bicicleta estática con resistencia ajustable para entrenamientos cardiovasculares en casa.",
-        "precio": "S/ 550,00",
-        "categoria": "Cardio"
-        }
+    {
+        "name": "Pilates Ball 75cm + Free Pump",
+        "description": "75cm Pilates ball with included pump, ideal for stability and toning exercises.",
+        "price": "$10.00",
+        "category": "Cardio"
+    },
+    {
+        "name": "Jump Rope",
+        "description": "Adjustable jump rope, ideal for cardio exercises and high-intensity training.",
+        "price": "$6.00",
+        "category": "Cardio"
+    },
+    {
+        "name": "Stationary Bike",
+        "description": "Stationary bike with adjustable resistance for cardiovascular workouts at home.",
+        "price": "$160.00",
+        "category": "Cardio"
+    }
     ],
-    "funcional": [
-        {
-        "nombre": "Mancuernas Ajustables",
-        "descripcion": "Mancuernas ajustables de 2 a 20kg, ideales para ejercicios de fuerza y resistencia.",
-        "precio": "S/ 300,00",
-        "categoria": "Funcional"
-        },
-        {
-        "nombre": "Banda de Resistencia",
-        "descripcion": "Banda elástica de resistencia para ejercicios de fuerza, flexibilidad y rehabilitación.",
-        "precio": "S/ 25,00",
-        "categoria": "Funcional"
-        },
-        {
-        "nombre": "Kettlebell",
-        "descripcion": "Kettlebell de 12kg para ejercicios de fuerza funcional y entrenamiento de cuerpo completo.",
-        "precio": "S/ 150,00",
-        "categoria": "Funcional"
-        }
+    "functional": [
+    {
+        "name": "Adjustable Dumbbells",
+        "description": "Adjustable dumbbells from 2 to 20kg, ideal for strength and resistance exercises.",
+        "price": "$90.00",
+        "category": "Functional"
+    },
+    {
+        "name": "Resistance Band",
+        "description": "Elastic resistance band for strength, flexibility, and rehabilitation exercises.",
+        "price": "$7.00",
+        "category": "Functional"
+    },
+    {
+        "name": "Kettlebell",
+        "description": "12kg kettlebell for functional strength exercises and full-body training.",
+        "price": "$45.00",
+        "category": "Functional"
+    }
     ]
 }
